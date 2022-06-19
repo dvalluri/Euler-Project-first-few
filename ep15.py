@@ -1,3 +1,4 @@
+#number of paths from top left to bottom right of an lxl square
 def paths(L):
     dict = {}
     dict[(1,1)] = 2
